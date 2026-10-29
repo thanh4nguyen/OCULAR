@@ -13,6 +13,7 @@ OCULAR provides a harmonized large-scale dataset of retinal artery-vein (A/V) an
 - [Citation](#citation)  
 
 ---
+## We downloaded (Not OD-FOV - request via google driver), have in total 831, 24 RAVIR is not used - Infrared images. 
 
 ## Dataset
 
