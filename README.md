@@ -83,7 +83,7 @@ PY: Paraguay, FR: France, ES: Spain, NAf: North Africa, BR: Brazil, CR: Croatia,
 
 ### OCULARNet
 
-Download the OCULARNet pre-trained weights from Hugging Face:
+Download the OCULARNet pre-trained weights from Hugging Face (Link dies):
 
 ```bash
 wget https://huggingface.co/Anon-User-Retina/OCULARNet/resolve/main/OCULARNet.pth
